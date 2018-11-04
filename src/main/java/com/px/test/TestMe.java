@@ -11,7 +11,13 @@ public class TestMe {
         System.out.println("test1");
     }
     @Test
-    public void test4(){
+
+    public void test4() {
         System.out.println("test4");
+    }
+    @Test
+    public void test3(){
+        System.out.println("test3");
+
     }
 }
