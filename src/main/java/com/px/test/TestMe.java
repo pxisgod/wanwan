@@ -10,4 +10,8 @@ public class TestMe {
     public void test2(){
         System.out.println("test1");
     }
+    @Test
+    public void test4(){
+        System.out.println("test4");
+    }
 }
